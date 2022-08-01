@@ -1,0 +1,49 @@
+.App {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+font-family: Arial, Helvetica, sans-serif;
+background-color: aquamarine;
+background-image: linear-gradient(98de, #410076,#8820dd);
+}
+
+#links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  height: 100vh;
+  padding: 1rem;
+}
+#home {
+  display: block;
+
+}
+.finya{
+  border-radius: 0;
+   background: #c3c3c3;
+   color: #1a1a1a;
+   font-weight: bold;
+   border: none;
+   border-top: black solid 0.1rem;
+   border-bottom: black solid 0.1rem;
+   border-left: black solid 0.1rem;
+   cursor: pointer;
+   width: 20%;
+   height: 2rem;
+}
+.finya.hover {
+  width: 300px;
+  background: #1a1a1a;
+  font-size: 40px;
+  margin: 100px auto;
+  padding: 10px;
+  cursor: pointer;
+  filter: brightness(1,2);
+}
+.instruct {
+  background-color: green;
+
+}

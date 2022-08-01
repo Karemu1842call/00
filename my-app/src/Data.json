@@ -1,0 +1,22 @@
+{
+    "students":[
+        {
+            "id":1,
+            "name":"Victor Kinoti",
+            "image":"n/a",
+            "Tm's Name":"Wilson Kinyua",
+            "phase":2,
+            "course":"software Engineering",
+            "class":"mpft59-63c"
+        },
+        {
+            "id":2,
+            "name":"",
+            "image":"n/a",
+            "Tm's Name":"Wilson Kinyua",
+            "phase":"",
+            "course":"software Engineering",
+            "class":"mpft59-63c"
+        }
+    ]
+}
